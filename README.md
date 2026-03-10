@@ -117,6 +117,12 @@ UrlShortenerApplication.java
 
 ---
 
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.0-brightgreen)
+![REST API](https://img.shields.io/badge/API-REST-blue)
+![Database](https://img.shields.io/badge/Database-H2-lightgrey)
+![Build](https://img.shields.io/badge/Build-Maven-red)
+
 ## 👩‍💻 Author
 
 **Pavani Muthyam**
